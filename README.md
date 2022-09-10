@@ -1,0 +1,1 @@
+# how.to.connect.dell.monitor.to.laptop
