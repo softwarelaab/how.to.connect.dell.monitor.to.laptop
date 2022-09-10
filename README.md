@@ -4,11 +4,11 @@
 
 * Go to the Dell Drivers and Download page to get the latest graphics drivers to make sure your video is optimized. The website should automatically detect your laptop model, so select it under This PC to get the latest drivers if your PC isn't already up-to-date.
 * Identify the video ports on your laptop and monitor. Dell laptops support a variety of video connection standards, including:
- * VGA
- * DVI
- * S-Video
- * HDMI
- * DisplayPort
+ 1. VGA
+ 2. DVI
+ 3. S-Video
+ 4. HDMI
+ 5. DisplayPort
 * Find the cable you need, then connect one end to your Dell laptop and the other end to the monitor. Since the cables' ends are identical, it doesn't matter which one goes into which device.
 * To switch between the built-in display and the external monitor, use the keyboard shortcut Fn+8. Press Fn+8 again to see your video display on both screens, and press Fn+8 a third time to switch back to just your Dell.
 * Configure the display resolution, font size, and color settings. In Windows 10, go to Settings > System > Display to optimize each monitor's video settings.
